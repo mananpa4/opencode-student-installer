@@ -1,0 +1,9 @@
+{
+  "opencodeStudent": {
+    "latest": { "major": 2, "minor": 1, "patch": 1, "preRelease": "", "preReleaseMinor": 0 },
+    "latestNonPreRelease": { "major": 2, "minor": 1, "patch": 1, "preRelease": "", "preReleaseMinor": 0 },
+    "assets": {
+      "x64": "OpenCodeStudent_2.1.1_Win10-11_x64_Setup.exe"
+    }
+  }
+}
